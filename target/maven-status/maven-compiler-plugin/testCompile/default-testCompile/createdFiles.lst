@@ -1,0 +1,10 @@
+API\Data\Convert.class
+API\Data\SendRequest.class
+TestGoogle\PageObject\MainPage.class
+API\Data\Config.class
+TestGoogle\PageObject\TranslatePage.class
+API\APITest.class
+TestGoogle\TranslatePageTest.class
+TestGoogle\MainPageTest.class
+API\Data\Collections.class
+TestGoogle\Config.class
