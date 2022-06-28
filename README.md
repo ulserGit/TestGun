@@ -6,7 +6,7 @@ Test framework
 <li>Maven</li>
 <li>Junit5</li>
 <li>Selenide6</li>
-<li>PageOblect</li>
+<li>PageObject</li>
 <li>PageFactory</li>
 <li>OkHttp3</li>
 <li>Allure</li>
