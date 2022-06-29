@@ -21,6 +21,8 @@ Test framework
 <br>
 ✅ Allure отчет: <i>run mvn allure:serve</i>
 
+<br><br>Telegram: https://t.me/Alibabaiko
+
 
 
 
